@@ -2,7 +2,7 @@
 
 A powerful web-based calculator with AI-powered word problem solving capabilities. Hosted on GitHub Pages!
 
-🔗 **[Live Demo](#)** *(Add your GitHub Pages link here after deployment)*
+🔗 **[Live Demo](https://dandziewit.github.io/AI-Calculator/)** - Try it now!
 
 ![Calculator Screenshot](screenshot.png) *(Optional: Add a screenshot)*
 
