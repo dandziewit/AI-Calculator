@@ -103,7 +103,6 @@ To run locally:
 ├── index.html          # Main HTML structure
 ├── style.css           # All styling and responsive design
 ├── calculator.js       # Calculator logic and AI engine
-├── calculator.py       # Original Python version (for reference)
 └── README.md          # This file
 ```
 
