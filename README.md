@@ -1,6 +1,6 @@
 AI Calculator – Natural Language Math Solver
 
-AI Calculator is a web-based calculator that can solve both traditional math expressions and natural language word problems. I built this project to explore how a system can interpret written math questions, classify the problem type, solve it programmatically, and explain the reasoning step-by-step.
+ The AI Calculator is a web-based calculator that can solve both traditional math expressions and natural language word problems. I built this project to explore how a system can interpret written math questions, classify the problem type, solve it programmatically, and explain the reasoning step-by-step.
 
 Instead of relying on external AI APIs or machine learning libraries, the system uses a rule-based reasoning engine written entirely in vanilla JavaScript. The engine parses user input, extracts numerical information, determines the type of problem being asked, and routes the request to the appropriate solver.
 
@@ -287,5 +287,5 @@ Voice input for spoken math questions
 
 Author
 
-Daniel
+Daniel Dziewit
 GitHub: https://github.com/dandziewit
