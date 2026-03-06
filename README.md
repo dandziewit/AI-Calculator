@@ -233,36 +233,7 @@ Browser localStorage
 
 No external dependencies or APIs are required.
 
-Project Structure
-AI-Calculator
-│
-├── index.html
-│   Main application interface
-│
-├── style.css
-│   Layout and responsive styling
-│
-├── calculator.js
-│   Calculator logic and AI solver engine
-│
-└── README.md
-Running the Project Locally
 
-Clone the repository:
-
-git clone https://github.com/dandziewit/AI-Calculator.git
-
-Open the project folder:
-
-cd AI-Calculator
-
-Then open index.html in your browser or run a simple local server:
-
-python -m http.server 8000
-
-Then navigate to:
-
-http://localhost:8000
 Why I Built This
 
 I built this project to explore how natural language math problems can be interpreted and solved programmatically. Instead of relying on existing AI services, I wanted to design the reasoning pipeline myself and understand how systems classify user intent and route problems to specialized logic.
