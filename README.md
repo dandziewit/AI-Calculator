@@ -234,6 +234,7 @@ Browser localStorage
 No external dependencies or APIs are required.
 
 
+
 Why I Built This
 
 I built this project to explore how natural language math problems can be interpreted and solved programmatically. Instead of relying on existing AI services, I wanted to design the reasoning pipeline myself and understand how systems classify user intent and route problems to specialized logic.
