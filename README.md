@@ -6,6 +6,15 @@ Instead of relying on external AI APIs or machine learning libraries, the system
 
 The goal of the project was to better understand how conversational systems interpret user intent and translate language into structured problem-solving logic.
 
+## App Preview
+
+### Calculator Buttons
+![Calculator Buttons](buttons.png)
+
+### Word Problem Example
+![Word Problem Example](word problem.png)
+
+
 🔗 Live Demo:
 https://dandziewit.github.io/AI-Calculator/
 
