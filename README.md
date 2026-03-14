@@ -11,9 +11,6 @@ The goal of the project was to better understand how conversational systems inte
 ### Calculator Buttons
 ![Calculator Buttons](buttons.png)
 
-### Word Problem Example
-![Word Problem Example](word problem.png)
-
 
 🔗 Live Demo:
 https://dandziewit.github.io/AI-Calculator/
